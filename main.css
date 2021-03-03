@@ -32,3 +32,8 @@ blockquote p {
     padding-left: 5px;
     padding-right: 5px;
 }
+
+@media print
+{    
+    width: 100%;
+}
